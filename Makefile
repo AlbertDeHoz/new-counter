@@ -1,4 +1,4 @@
-PACKAGE_NAME=new_counter
+PACKAGE_NAME=new-counter
 THIS_DIR=$(shell pwd)
 
 shell:
