@@ -56,8 +56,5 @@
       "direflow-scripts/direflow-jest.config.js"
     ]
   },
-  "config-overrides-path": "direflow-webpack.js",
-  "publishConfig": {
-    "registry": "https://nexus.altoalliance.com/repository/npm-releases/"
-  }
+  "config-overrides-path": "direflow-webpack.js"
 }
