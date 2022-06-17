@@ -9,7 +9,7 @@
  * this file can be safely deleted.
  */
 
-import NewCounter from './direflow-components/new-counter/App';
+import NewCounter from './direflow-components/NewCounter';
 
 export { 
   NewCounter 
